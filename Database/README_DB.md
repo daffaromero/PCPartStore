@@ -4,6 +4,6 @@
 #### In that line, change the directory: 
 ### C:\Users\Daffa Romero\Documents\pcpartsdb.mdf
 #### and replace it with the location of your own database (.mdf) file.
-#### Afterwards, create four new tables and name them exactly like the database file names, i.e. "dbo.ProdTable" or "dbo.BillTable" and copy+paste the SQL code into the appropriate T-SQL editor for each table.
+#### Afterwards, create four new tables and name them exactly like the database file names, i.e. "dbo.ProdTable" or "dbo.BillTable" and copy+paste the T-SQL code into the appropriate T-SQL editor for each table.
 #### Do not forget to update the database and hit refresh in the server explorer.
 #### The program should work as intended now, with the local database connected.
