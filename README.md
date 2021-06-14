@@ -10,3 +10,6 @@
 ### Currently, there are only two CPUs and one GPU in the inventory. 
 ### The code for the program is based on this video: https://www.youtube.com/watch?v=i4YHCa92BdM&ab_channel=MyCodeSpace.
 ### Tweaks and changes are made according to program needs.
+### The username and password to log in to the Admin account:
+### Username: Admin
+### Password: Admin
